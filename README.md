@@ -14,5 +14,5 @@ KBC Quiz Game in C
 ![](screenshot6.JPG)
 ![](screenshot7.JPG)
 ![](screenshot8.JPG)
-### Here I am showing you directly the last question
+### This is the last question
 ![](screenshot9.JPG)
