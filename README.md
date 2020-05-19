@@ -6,4 +6,13 @@ KBC Quiz Game in C
 ### Before each question the user is asked if he wants to use lifeline if user useses a lifeline then then he is left with only one.
 ### if the user is able to answer all the 7 questions then he is declared as winner.
 ### Screenshots
-![](screenshot1.jpg)
+![](screenshot1.JPG)
+![](screenshot2.JPG)
+![](screenshot3.JPG)
+![](screenshot4.JPG)
+![](screenshot5.JPG)
+![](screenshot6.JPG)
+![](screenshot7.JPG)
+![](screenshot8.JPG)
+### Here I am showing you directly the last question
+![](screenshot9.JPG)
